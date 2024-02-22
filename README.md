@@ -1,6 +1,5 @@
-# Terms & conditions - Space Penguin
-
-- ## Last update: [01-25-2024]
+# Terms & Conditions - Penguin Star
+- **Last update:** [02-21-2024]
 
 **1. Acceptance of Terms and Conditions**
 
@@ -20,19 +19,19 @@ By accessing and using our "Space Penguin" Roblox scripts website, you agree to 
 
 **4. Intellectual Property and Credits**
 
-4.1. The scripts provided are the property of their respective creators. Users must give proper credit to the original authors.
+4.1. The scripts provided on this website are created by MR Mob and owned by MR Mob and Penguin Star. Users must give proper credit to MR Mob and Penguin Star when using these scripts.
 
-**5. Changes to Terms** 5.1.
+**5. Changes to Terms**
 
 5.1. We reserve the right to modify these terms at any time. Modifications will be effective immediately upon posting on the Space Penguin website.
 
-**6. Limitation of Liability** 6.1.
+**6. Limitation of Liability**
 
-6.1. We shall not be liable for any direct, indirect, incidental or consequential damages.
+6.1. We shall not be liable for any direct, indirect, incidental, or consequential damages.
 
 **7. Privacy Policy**
 
-Our privacy policy details how we collect, use and protect personal information. By using our site, you agree to the terms of our privacy policy.
+Our privacy policy details how we collect, use, and protect personal information. By using our site, you agree to the terms of our privacy policy.
 
 **8. Legal Information and Legal Consultation**
 
@@ -48,6 +47,6 @@ Our privacy policy details how we collect, use and protect personal information.
 
 **11. Contact**
 
-11.1. For any questions or queries, please contact us at [MOB949K@proton.me].
+11.1. For any questions or queries, please contact us at [MOB949K@proton.me](mailto:MOB949K@proton.me).
 
 By continuing to use the Space Penguin website, you agree to these terms and conditions.
