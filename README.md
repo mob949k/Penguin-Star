@@ -1,13 +1,13 @@
 # Terms & Conditions - Penguin Star
-- **Last update:** [02-21-2024]
+- **Last update:** [09-03-2024]
 
 **1. Acceptance of Terms and Conditions**
 
-By accessing and using our "Space Penguin" Roblox scripts website, you agree to abide by the following terms and conditions. If you do not agree to any of these terms, we urge you not to use our site.
+By accessing and using our "Penguin Star" Roblox scripts website, you agree to abide by the following terms and conditions. If you do not agree to any of these terms, we urge you not to use our site. By entering the Penguin Star website, you implicitly accept all terms and conditions outlined herein.
 
 **2. Authorized Use and Educational Purposes**
 
-2.1. Space Penguin provides Roblox scripts for educational and learning purposes on programming and game development.
+2.1. Penguin Star provides Roblox scripts for educational and learning purposes on programming and game development.
 
 2.2. Scripts must not be used for the purpose of violating Roblox terms of service or for illegal activities.
 
@@ -23,7 +23,7 @@ By accessing and using our "Space Penguin" Roblox scripts website, you agree to 
 
 **5. Changes to Terms**
 
-5.1. We reserve the right to modify these terms at any time. Modifications will be effective immediately upon posting on the Space Penguin website.
+5.1. We reserve the right to modify these terms at any time. Modifications will be effective immediately upon posting on the Penguin Star website.
 
 **6. Limitation of Liability**
 
@@ -39,7 +39,7 @@ Our privacy policy details how we collect, use, and protect personal information
 
 **9. Termination of Access**
 
-9.1. We reserve the right to suspend or terminate your access to the Space Penguin website if it is determined that you have violated these terms.
+9.1. We reserve the right to suspend or terminate your access to the Penguin Star website if it is determined that you have violated these terms.
 
 **10. Applicable Law**
 
@@ -48,5 +48,3 @@ Our privacy policy details how we collect, use, and protect personal information
 **11. Contact**
 
 11.1. For any questions or queries, please contact us at [MOB949K@proton.me](mailto:MOB949K@proton.me).
-
-By continuing to use the Space Penguin website, you agree to these terms and conditions.
